@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.input-group {
+  width: 500px;
+}
+
+.navbar-icons {
+  display: flex;
+  align-items: center;
+}

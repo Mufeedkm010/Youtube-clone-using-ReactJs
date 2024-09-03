@@ -1,0 +1,13 @@
+.content {
+  margin-left: 240px;
+  transition: margin-left 0.3s ease;
+}
+
+.content.expanded {
+  margin-left: 0;
+}
+
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
